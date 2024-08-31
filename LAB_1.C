@@ -63,7 +63,6 @@ void read(struct day* calendar[], int size)
     } 
 
 } 
-
   
 
 void display(struct day*calendar[],int size) 
