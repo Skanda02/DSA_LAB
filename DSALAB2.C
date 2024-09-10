@@ -3,7 +3,6 @@
 #include<string.h> 
 
 void main() 
-
 { 
 
   int textlength,patlength,replength,i,j; 
