@@ -1,6 +1,6 @@
 /*
 1. Develop a Structure Program in c for the following:
-    a. Declare a calender as an array if 7 elements(A dynamically Created array) to represent 7 days of a week. Each Elementof the array is a structure haveing three fields
+    a. Declare a calender as an array of 7 elements(A dynamically Created array) to represent 7 days of a week. Each Element of the array is a structure haveing three fields
         The first field is the name of the Day(A dynamically allocated String)
         The second field is the date of the Day(A integer)
         Third field is description of the activity for a perticular day (A dynamically allocated String)
