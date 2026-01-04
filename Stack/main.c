@@ -1,6 +1,6 @@
 /*
-3. Develop menu driven Program in C for following operations o n STACK of Integers
-(Array Implementation o f Stack with maximum size MAX)
+3. Develop menu driven Program in C for following operations on STACK of Integers
+(Array Implementation of Stack with maximum size MAX)
     a. Push an Element on to Stack
     b . Pop an Element from Stack
     c . Demonstrate how Stack can be used to check Palindrome

@@ -1,6 +1,6 @@
 /*
 4. Develop a program in c for converting an infix expression to postfix expression 
-    Program should suppoet for both parenthesied and free parenthesized expression with the operators: +, -, *, /, %, $, ^ and alphanumeric operands.
+    Program should support for both parenthesized and free parenthesized expression with the operators: +, -, *, /, %, $, ^ and alphanumeric operands.
 */
 
 #include<stdio.h>
