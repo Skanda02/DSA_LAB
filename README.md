@@ -32,3 +32,12 @@ Support the program with appropriate functions for each of the above operations
 ## 4. Develop a program in c for converting an infix expression to postfix expression
 
 Program should support for both parenthesized and free parenthesized expression with the operators: `+, -, *, /, %, $, ^` and `alphanumeric operands`.
+
+---
+
+## 5. Develop a Program in c for the following stack Applications
+
+a. `Evaluation of suffix expression` with single digit operands and operators: +, -, *, ^, %
+b. `Solving Tower of Hanoi` problem with n disks
+
+---
