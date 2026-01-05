@@ -4,4 +4,6 @@ Stack/main.o
 Stack/palindrome.o
 Stack/stack_palindrome
 Stack/stack.o 
-Infix_post/a.out
+Infix_post/a.
+Stack_Applications/Evl_suffix_exp/a.out
+Stack_Applications/Hanoi_towers/a.out
