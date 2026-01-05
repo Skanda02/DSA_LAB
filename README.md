@@ -37,7 +37,7 @@ Program should support for both parenthesized and free parenthesized expression 
 
 ## 5. Develop a Program in c for the following stack Applications
 
-a. `Evaluation of suffix expression` with single digit operands and operators: +, -, *, ^, %
+a. `Evaluation of suffix expression` with single digit operands and operators: +, -, *, ^, % <br>
 b. `Solving Tower of Hanoi` problem with n disks
 
 ---
