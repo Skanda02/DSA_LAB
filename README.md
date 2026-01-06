@@ -41,3 +41,13 @@ a. `Evaluation of suffix expression` with single digit operands and operators: +
 b. `Solving Tower of Hanoi` problem with n disks
 
 ---
+
+## 6. Develop a menu driven Program in C for the following operations on Circular QUEUE of Characters
+
+a. `Insert` an Element on t o Circular QUEUE<br>
+b. `Delete` an Element from Circular QUEUE<br>
+c. Demonstrate `Overflow` and `Underflow` situations on Circular QUEUE<br>
+d . `Display` the status of Circular QUEUE<br>
+Support the program with appropriate functions for each of the above operations<br>
+
+---
